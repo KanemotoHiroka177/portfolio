@@ -121,10 +121,25 @@ section h2{
 /* SEC01 VISION
 ------------------------------------------------------------*/
 
+.profile{
+	width: 60%;
+	margin: 0 auto;
+	padding-bottom: 80px;
+	text-align: center;
+}
+
 .vision{
 	width: 60%;
 	margin: 0 auto;
 	padding-bottom: 80px;
+}
+
+.icon{
+	display: flex;
+	width: 30%;
+	height: 80px;
+	padding-top: 5%;
+	padding-left: 35%;
 }
 
 
